@@ -12,4 +12,4 @@ This project consists of Frontend Udmey-clone website page. It's designed to pro
 
 ## How to View
 
-You can access my udemy-clone website by visiting [link] Feel free to explore the content and  get in touch!
+You can access my udemy-clone website by visiting [https://kishore-888.github.io/udemy-clone/] Feel free to explore the content and  get in touch!
