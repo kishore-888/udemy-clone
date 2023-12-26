@@ -3,7 +3,7 @@ My Project work is the Udemy-clone Website 🌐  Welcome to my coding journey! T
 
 ## Overview
 
-This project consists of Udmey-clone website page. It's designed to provide visitors with an insight into my work, and skills.
+This project consists of Frontend Udmey-clone website page. It's designed to provide visitors with an insight into my work, and skills.
 
 ## Technologies Used
 
