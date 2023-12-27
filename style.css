@@ -96,13 +96,13 @@ body{
 }
 
 .sale-image__offer{
-    width:35%;
+    width:34git%;
     border:solid black 2px;
     background-color: white;
     padding: 2%;
     position: absolute;
     top: 10%;
-    left: 10%;
+    left: 8%;
 } 
 
 
